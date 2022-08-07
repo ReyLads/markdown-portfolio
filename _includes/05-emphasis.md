@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+**Autodidact and self-starter**
+_Java Spring Boot Developer_
+__AWS DevOps Engineer__
+*Azure Solutions Architect*
+**_Cloud DevOps Engineer_**

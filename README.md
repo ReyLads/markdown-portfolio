@@ -1,6 +1,6 @@
-# Data Scientist
+# Java/Kotlin Android Developer | AWS Solutions Architect | DevOps Engineer |
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: AWS, Azure, Terraform, Docker, Kubernetes.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

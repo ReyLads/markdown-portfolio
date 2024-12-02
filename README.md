@@ -1,6 +1,6 @@
-# Java/Kotlin Android Developer | AWS Solutions Architect | DevOps Engineer |
+# Python Developer | AI Engineer | 3x AWS Certified
 
-#### Technical Skills: AWS, Azure, Terraform, Docker, Kubernetes.
+#### Technical Skills: Python, Java, AWS, Azure, Terraform, Docker, Kubernetes.
 
 ## Projects
 ### In Progress
